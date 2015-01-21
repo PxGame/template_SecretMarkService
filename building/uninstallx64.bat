@@ -1,0 +1,1 @@
+SecretMarkServicex64.exe uninstall
